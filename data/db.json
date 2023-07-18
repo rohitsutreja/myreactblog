@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "excited",
+      "datetime": "July 19, 2023 12:06:11 AM",
+      "body": "argusoft is coming for recruitment\n"
+    },
+    {
+      "id": 2,
+      "title": "oppenhiemer",
+      "datetime": "July 19, 2023 12:06:41 AM",
+      "body": "it is releasing very soon"
+    }
+  ]
+}
